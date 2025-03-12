@@ -1,0 +1,16 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\a\\UnrealGame\\Development\\InterchangeImport\\Module.InterchangeImport.1.cpp.o",
+		"..\\..\\..\\a\\UnrealGame\\Development\\InterchangeImport\\Module.InterchangeImport.2.cpp.o",
+		"..\\..\\..\\a\\UnrealGame\\Development\\InterchangeImport\\Module.InterchangeImport.3.cpp.o",
+		"..\\..\\..\\a\\UnrealGame\\Development\\InterchangeImport\\Module.InterchangeImport.1.cpp.o",
+		"..\\..\\..\\a\\UnrealGame\\Development\\InterchangeImport\\Module.InterchangeImport.2.cpp.o",
+		"..\\..\\..\\a\\UnrealGame\\Development\\InterchangeImport\\Module.InterchangeImport.3.cpp.o",
+		"..\\..\\..\\x\\UnrealGame\\Development\\InterchangeImport\\Module.InterchangeImport.1.cpp.o",
+		"..\\..\\..\\x\\UnrealGame\\Development\\InterchangeImport\\Module.InterchangeImport.2.cpp.o",
+		"..\\..\\..\\x\\UnrealGame\\Development\\InterchangeImport\\Module.InterchangeImport.3.cpp.o",
+		"..\\..\\..\\x\\UnrealGame\\Development\\InterchangeImport\\Module.InterchangeImport.1.cpp.o",
+		"..\\..\\..\\x\\UnrealGame\\Development\\InterchangeImport\\Module.InterchangeImport.2.cpp.o",
+		"..\\..\\..\\x\\UnrealGame\\Development\\InterchangeImport\\Module.InterchangeImport.3.cpp.o"
+	]
+}

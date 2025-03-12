@@ -1,0 +1,42 @@
+[
+	{
+		"file": "D:\\Unreal Projects\\ECMOSimulationNew\\Source\\ECMOSimulationNew\\ECMOSimulationNew.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ECMOSimulationNew\\.vscode\\compileCommands_ECMOSimulationNew\\ECMOSimulationNew.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ECMOSimulationNew\\Source\\ECMOSimulationNew\\ECMOSimulationNew.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ECMOSimulationNew\\.vscode\\compileCommands_ECMOSimulationNew\\ECMOSimulationNew.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ECMOSimulationNew\\Source\\ECMOSimulationNew\\ECMOSimulationNew.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ECMOSimulationNew\\.vscode\\compileCommands_ECMOSimulationNew\\ECMOSimulationNew.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ECMOSimulationNew\\Source\\ECMOSimulationNew\\NNEModelActor.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ECMOSimulationNew\\.vscode\\compileCommands_ECMOSimulationNew\\ECMOSimulationNew.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\ECMOSimulationNew\\Source\\ECMOSimulationNew\\NNEModelActor.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\ECMOSimulationNew\\.vscode\\compileCommands_ECMOSimulationNew\\ECMOSimulationNew.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	}
+]
