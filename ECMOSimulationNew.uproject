@@ -96,6 +96,10 @@
 			"Name": "BasicAsync",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/49a81d22ed294c7d97183a2a7a03fb1f"
+		},
+		{
+			"Name": "MetaXRAudio",
+			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [
