@@ -7,17 +7,13 @@
 		{
 			"Name": "ECMOSimulationNew",
 			"Type": "Runtime",
-			"LoadingPhase": "Default",
-			"AdditionalDependencies": [
-				"Engine"
-			]
+			"LoadingPhase": "Default"
 		}
 	],
 	"Plugins": [
 		{
 			"Name": "MixamoAnimationRetargeting",
-			"Enabled": false,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/c684998124da4e2583b314dc95403a80"
+			"Enabled": false
 		},
 		{
 			"Name": "RigLogic",
@@ -61,12 +57,7 @@
 		},
 		{
 			"Name": "OculusHandTools",
-			"Enabled": false,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Mac",
-				"Android"
-			]
+			"Enabled": false
 		},
 		{
 			"Name": "OpenXREyeTracker",
@@ -100,6 +91,14 @@
 		{
 			"Name": "MetaXRAudio",
 			"Enabled": false
+		},
+		{
+			"Name": "VisualStudioTools",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/362651520df94e4fa65492dbcba44ae2",
+			"SupportedTargetPlatforms": [
+				"Win64"
+			]
 		}
 	],
 	"TargetPlatforms": [
