@@ -2,6 +2,8 @@
 
 
 #include "GameScoreStatic.h"
+#include "Misc/FileHelper.h"
+
 
 bool UGameScoreStatic::AppendStringsToCSV(const FString& FilePath, const FString& String1, const FString& String2, const FString& String3, const FString& String4)
 {
