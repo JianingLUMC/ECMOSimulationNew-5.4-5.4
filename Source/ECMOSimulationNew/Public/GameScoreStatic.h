@@ -15,6 +15,6 @@ class ECMOSIMULATIONNEW_API UGameScoreStatic : public UBlueprintFunctionLibrary
 	GENERATED_BODY()
 
 	UFUNCTION(BlueprintCallable, Category = "File")
-	static bool AppendStringsToCSV(const FString& FilePath, const FString& String1, const FString& String2, const FString& String3, const FString& String4);
+	static bool AppendStringsToCSV(const FString& FilePath, const FString& String1, const FString& String2);
 	
 };
